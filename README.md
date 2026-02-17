@@ -1,1 +1,2 @@
-# my-highrise-bot
+# bot_highrise
+bot highrise
